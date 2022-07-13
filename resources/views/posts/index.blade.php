@@ -7,7 +7,7 @@
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
     </head>
     <body>
-        <h1>Blog Name</h1
+        <h1>Blog Name</h1>
     <p ='create'>[<a href= '/posts/create'>create</a>]</p>
         </div>
         <div class='posts'>
